@@ -16,7 +16,7 @@ The lesson can be found in the file "Django Heroku Migration.ipynb".
 In it we will:
 * Create our new Virtual Environment
 * Create our new Environment variables
-* Deploy our new creation to Heroku
+* Deploy our creation to Heroku
 
 The lab can be found in the file "Google Spreadsheets API.ipynb".
 
